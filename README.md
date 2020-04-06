@@ -1,6 +1,6 @@
 # Smarthome with Arduino
 
-Foobar is a Python library for dealing with word pluralization.
+Smarthome controlled arduino
 
 ## License
 MSA Official
