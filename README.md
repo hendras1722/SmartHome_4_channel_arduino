@@ -1,2 +1,6 @@
-<h1>Smarthome menggunakan Arduino dengan Android<h1>
-<p>Smarthome meggunakan smratphone berbasis android dapat menhidupkan dan mematikan peralatan listrik hanya menggunakan smartphone</p>
+# Smarthome with Arduino
+
+Foobar is a Python library for dealing with word pluralization.
+
+## License
+MSA Official
